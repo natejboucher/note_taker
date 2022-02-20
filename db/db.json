@@ -8,5 +8,10 @@
     "title": "Create Note Test",
     "text": "Test Text",
     "id": "1"
+  },
+  {
+    "title": "Third note test.",
+    "text": "Test text",
+    "id": "2"
   }
 ]
