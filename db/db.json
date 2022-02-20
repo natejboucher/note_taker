@@ -1,29 +1,12 @@
-{
-  "notes": [
-    {
-      "title": "Test Title",
-      "text": "Test text",
-      "id": "0"
-    },
-    {
-      "title": "TEST TWO",
-      "text": "YEET",
-      "id": "2"
-    },
-    {
-      "title": "Post Test 2",
-      "text": "Post test text 3",
-      "id": "2"
-    },
-    {
-      "title": "Post Test 4",
-      "text": "Post test text 4",
-      "id": "3"
-    },
-    {
-      "title": "This is a front end",
-      "text": "TEST YEET",
-      "id": "4"
-    }
-  ]
-}
+[
+  {
+    "title": "First Official Test",
+    "text": "Test text",
+    "id": "0"
+  },
+  {
+    "title": "Create Note Test",
+    "text": "Test Text",
+    "id": "1"
+  }
+]
